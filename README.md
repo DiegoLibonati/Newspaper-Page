@@ -38,3 +38,7 @@ I made a website about a newspaper, but basically what I did was to take a desig
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Newspaper%20page`
 
 ## Video
+
+
+https://user-images.githubusercontent.com/99032604/198900603-c47d24db-2361-4648-8762-6587b682b3b3.mp4
+
