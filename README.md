@@ -23,19 +23,9 @@ I made a website about a newspaper, but basically what I did was to take a desig
 2. Javascript
 3. HTML5
 
-## Galery
-
-![Newspaper](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/newspaper-0.jpg)
-
-![Newspaper](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/newspaper-1.jpg)
-
-![Newspaper](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/newspaper-2.jpg)
-
-![Newspaper](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Css/Imagenes/newspaper-3.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Newspaper%20Page`
+[`https://www.diegolibonati.com.ar/#/project/79`](https://www.diegolibonati.com.ar/#/project/79)
 
 ## Video
 
