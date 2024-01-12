@@ -75,14 +75,14 @@ const containerDate = document.querySelector(
 In this array called `nameDays` we are going to save the days of the week that we will later get that day is through an index:
 
 ```
-const nameDays: string[] = [
-  "Sunday",
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday",
+const nameDays: DaysWeek[] = [
+  DaysWeek.Sunday,
+  DaysWeek.Monday,
+  DaysWeek.Tuesday,
+  DaysWeek.Wednesday,
+  DaysWeek.Tuesday,
+  DaysWeek.Friday,
+  DaysWeek.Saturday,
 ];
 ```
 
@@ -92,12 +92,11 @@ The `getAmOrPm()` function will obtain by parameters the current time and return
 const getAmOrPm = (actualHour: number): string => {
   if (actualHour > 12) {
     return "pm";
-  } else {
-    return "am";
   }
+  return "am";
 };
 ```
-const insertActualDate = (): string => {
+const insertActualDate = (): void => {
   const actualDate: Date = new Date();
   const actualNumberDay: number = actualDate.getDay();
   const actualHour: string = addZero(actualDate.getHours());
@@ -107,7 +106,7 @@ const insertActualDate = (): string => {
   const actualYear: number = actualDate.getFullYear();
   const IsAmOrPm: string = getAmOrPm(actualDate.getHours());
 
-  return (containerDate.innerHTML = `${nameDays[actualNumberDay]} ${actualHour}:${actualMinutes} ${IsAmOrPm} ${actualDay}/${actualMonth}/${actualYear}`);
+  containerDate.innerHTML = `${nameDays[actualNumberDay]} ${actualHour}:${actualMinutes} ${IsAmOrPm} ${actualDay}/${actualMonth}/${actualYear}`;
 };
 
 insertActualDate();
