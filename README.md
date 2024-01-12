@@ -36,7 +36,7 @@ I made a website about a newspaper, but basically what I did was to take a desig
 
 ## Video
 
-https://user-images.githubusercontent.com/99032604/198900603-c47d24db-2361-4648-8762-6587b682b3b3.mp4
+https://github.com/DiegoLibonati/Newspaper-Page/assets/99032604/c49a4eed-29c6-420b-bb76-09c0ae6f60f8
 
 ## Documentation
 
