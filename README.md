@@ -1,4 +1,4 @@
-# Newspaper-Page
+# Newspaper
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ I made a website about a newspaper, but basically what I did was to take a desig
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/79`](https://www.diegolibonati.com.ar/#/project/79)
+[`https://www.diegolibonati.com.ar/#/project/Newspaper`](https://www.diegolibonati.com.ar/#/project/Newspaper)
 
 ## Video
 
